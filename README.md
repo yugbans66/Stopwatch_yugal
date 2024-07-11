@@ -14,7 +14,7 @@ A simple and responsive stopwatch application built with React.
 
 ## Running the Application
 
-1. **Clone the Repository**: `git clone https://github.com/yugbans66/stopwatch_yug.git`
+1. **Clone the Repository**: `git clone https://github.com/yugbans66/Stopwatch_yugal.git`
 
 2. **Navigate to the project folder**: `cd stopwatch`
 
